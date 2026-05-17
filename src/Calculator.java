@@ -11,7 +11,4 @@ public class Calculator {
     public int multiply(int a, int b) {
         return a * b;
     }
-    public int badMethod() {
-        return 1/0;  // division by zero, bad code
-    }
 }
